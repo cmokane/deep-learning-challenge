@@ -8,4 +8,4 @@ Feautures: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ASK_AMT, INC
 Variables Removed: EIN, NAME, and SPECIAL_CONSIDERATIONS
 # Compiling, Training, and Evaluating the Model
 Layer 1: 20 nodes, Layer 2: 15 nodes. 
-Tragert Performance: there was a loss of 0.5570  and the acuracy was 0.7294.
+Target Performance: there was a loss of 0.5570  and the acuracy was 0.7294.
